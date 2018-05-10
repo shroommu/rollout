@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="ArtisanDream" t="Include">
           <e p="AI" t="Include">
+            <e p="NoNew.cs" t="Include" />
             <e p="Scripts" t="Include">
               <e p="AiBase.cs" t="Include" />
               <e p="AiBehaviour.cs" t="Include" />
@@ -18,31 +19,50 @@
               <e p="AiStateBehavior.cs" t="Include" />
               <e p="NavMeshBehaviour.cs" t="Include" />
               <e p="PatrolPointControl.cs" t="Include" />
+              <e p="SendGameObject.cs" t="Include" />
             </e>
-          </e>
-          <e p="EventsAndUserInteractions" t="Include">
-            <e p="ChildObject.cs" t="Include" />
-            <e p="CickAction.cs" t="Include" />
-            <e p="ClickEvent.cs" t="Include" />
-            <e p="EventHandler.cs" t="Include" />
-            <e p="GameAction.cs" t="Include" />
-            <e p="GameActionEvent.cs" t="Include" />
-            <e p="GameActionHandler.cs" t="Include" />
-            <e p="GameEventObjectListener.cs" t="Include" />
-            <e p="GameEventOject.cs" t="Include" />
-            <e p="ParentObject.cs" t="Include" />
-            <e p="TextActionHandler.cs" t="Include" />
           </e>
           <e p="Generics" t="Include">
             <e p="Scripts" t="Include">
-              <e p="GenericObjects.cs" t="Include" />
-              <e p="GenericObjectsBase.cs" t="Include" />
+              <e p="ActionHandlers" t="Include">
+                <e p="TextActionHandler.cs" t="Include" />
+              </e>
+              <e p="Actions" t="Include">
+                <e p="GameAction.cs" t="Include" />
+              </e>
+              <e p="Behaviours" t="Include">
+                <e p="ChildObject.cs" t="Include" />
+                <e p="ClickRunActionBehaviour.cs" t="Include" />
+                <e p="ParentObject.cs" t="Include" />
+                <e p="StartActionBehaviour.cs" t="Include" />
+              </e>
+              <e p="DataStorage" t="Include">
+                <e p="Examples" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="StringData.cs" t="Include" />
+                    <e p="TextUI.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="DataStorage.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Events" t="Include">
+                <e p="ClickRunEventBehaviour.cs" t="Include" />
+                <e p="GameActionHandler.cs" t="Include" />
+                <e p="GameEventObject.cs" t="Include" />
+                <e p="GameEventObjectListener.cs" t="Include" />
+                <e p="IGameEvent.cs" t="Include" />
+              </e>
+              <e p="Interfaces" t="Include">
+                <e p="IAction.cs" t="Include" />
+              </e>
               <e p="Legacy" t="Include">
                 <e p="SendAndGetObject.cs" t="Include" />
               </e>
-              <e p="Persistant Data" t="Include">
-                <e p="BasicText.cs" t="Include" />
-                <e p="StorePersistantData.cs" t="Include" />
+              <e p="Objects" t="Include">
+                <e p="GenericObjects.cs" t="Include" />
+                <e p="GenericObjectsBase.cs" t="Include" />
               </e>
             </e>
           </e>
