@@ -1,0 +1,3 @@
+[submodule "TransformGame/Assets/ArtisanDream/AI"]
+	path = TransformGame/Assets/ArtisanDream/AI
+	url = https://github.com/anthonyromrell/AI.git
