@@ -1,3 +1,12 @@
 [submodule "TransformGame/Assets/ArtisanDream/AI"]
 	path = TransformGame/Assets/ArtisanDream/AI
 	url = https://github.com/anthonyromrell/AI.git
+[submodule "TransformGame/Assets/ArtisanDream/Generics"]
+	path = TransformGame/Assets/ArtisanDream/Generics
+	url = https://github.com/anthonyromrell/Generics.git
+[submodule "TransformGame/Assets/ArtisanDream/EventsAndUserInteractions"]
+	path = TransformGame/Assets/ArtisanDream/EventsAndUserInteractions
+	url = https://github.com/anthonyromrell/EventsAndUserInteractions.git
+[submodule "TransformGame/Assets/ArtisanDream/Unite2017"]
+	path = TransformGame/Assets/ArtisanDream/Unite2017
+	url = https://github.com/anthonyromrell/Unite2017.git
