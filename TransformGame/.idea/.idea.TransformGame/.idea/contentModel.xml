@@ -8,7 +8,6 @@
       <e p="Assets" t="Include">
         <e p="ArtisanDream" t="Include">
           <e p="AI" t="Include">
-            <e p="NoNew.cs" t="Include" />
             <e p="Scripts" t="Include">
               <e p="AiBase.cs" t="Include" />
               <e p="AiBehaviour.cs" t="Include" />
@@ -17,14 +16,13 @@
               <e p="AiIdle.cs" t="Include" />
               <e p="AiPatrol.cs" t="Include" />
               <e p="AiStateBehavior.cs" t="Include" />
-              <e p="NavMeshBehaviour.cs" t="Include" />
               <e p="PatrolPointControl.cs" t="Include" />
-              <e p="SendGameObject.cs" t="Include" />
             </e>
           </e>
           <e p="Generics" t="Include">
             <e p="Scripts" t="Include">
               <e p="ActionHandlers" t="Include">
+                <e p="GameActionHandler.cs" t="Include" />
                 <e p="TextActionHandler.cs" t="Include" />
               </e>
               <e p="Actions" t="Include">
@@ -34,6 +32,7 @@
                 <e p="ChildObject.cs" t="Include" />
                 <e p="ClickRunActionBehaviour.cs" t="Include" />
                 <e p="ParentObject.cs" t="Include" />
+                <e p="SendGameObject.cs" t="Include" />
                 <e p="StartActionBehaviour.cs" t="Include" />
               </e>
               <e p="DataStorage" t="Include">
@@ -46,13 +45,6 @@
                 <e p="Scripts" t="Include">
                   <e p="DataStorage.cs" t="Include" />
                 </e>
-              </e>
-              <e p="Events" t="Include">
-                <e p="ClickRunEventBehaviour.cs" t="Include" />
-                <e p="GameActionHandler.cs" t="Include" />
-                <e p="GameEventObject.cs" t="Include" />
-                <e p="GameEventObjectListener.cs" t="Include" />
-                <e p="IGameEvent.cs" t="Include" />
               </e>
               <e p="Interfaces" t="Include">
                 <e p="IAction.cs" t="Include" />
@@ -108,6 +100,9 @@
                   <e p="VariableAudioTrigger.cs" t="Include" />
                 </e>
               </e>
+            </e>
+            <e p="Extentions" t="Include">
+              <e p="ClickRunEventBehaviour.cs" t="Include" />
             </e>
             <e p="ProjectSettings" t="Include">
               <e p="ProjectVersion.txt" t="Include" />
