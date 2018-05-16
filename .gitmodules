@@ -7,3 +7,6 @@
 [submodule "TransformGame/Assets/ArtisanDream/Unite2017"]
 	path = TransformGame/Assets/ArtisanDream/Unite2017
 	url = https://github.com/anthonyromrell/Unite2017.git
+[submodule "TransformGame/Assets/ArtisanDream/CharacterScripts"]
+	path = TransformGame/Assets/ArtisanDream/CharacterScripts
+	url = https://github.com/anthonyromrell/Character-Scripts.git
