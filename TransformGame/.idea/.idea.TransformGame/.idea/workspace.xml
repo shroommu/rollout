@@ -11,100 +11,143 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AiBrain.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBrain.cs">
+      <file leaf-file-name="FloatInput.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatInput.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1526622974625" expanded="false" signature="6:118" ph="..." />
+                <marker date="1526622974625" expanded="true" signature="262:303" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovePattern.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePattern.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <marker date="1526499320410" expanded="true" signature="6:78" ph="..." />
+                <marker date="1526499320410" expanded="true" signature="249:747" ph="{...}" />
+                <marker date="1526499320410" expanded="true" signature="281:646" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovePatternBase.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AiIdle.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiIdle.cs">
+      <file leaf-file-name="FloatConstant.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            <state relative-caret-position="90">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="27" />
               <folding>
-                <marker date="1525996441543" expanded="false" signature="6:100" ph="..." />
-                <marker date="1525996441543" expanded="true" signature="213:275" ph="{...}" />
-                <marker date="1525996441543" expanded="true" signature="264:273" ph="{...}" />
+                <marker date="1526622945985" expanded="false" signature="6:118" ph="..." />
+                <marker date="1526622945985" expanded="true" signature="184:303" ph="{...}" />
+                <marker date="1526622945985" expanded="true" signature="262:301" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameActionHandler.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/ActionHandlers/GameActionHandler.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1525983497025" expanded="false" signature="6:161" ph="..." />
-                <marker date="1525983497025" expanded="true" signature="284:328" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AiBehaviour.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBehaviour.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1525986182249" expanded="false" signature="6:100" ph="..." />
-                <marker date="1525986182249" expanded="true" signature="168:601" ph="{...}" />
-                <marker date="1525986182249" expanded="true" signature="330:376" ph="{...}" />
-                <marker date="1525986182249" expanded="true" signature="394:430" ph="{...}" />
-                <marker date="1525986182249" expanded="true" signature="476:536" ph="{...}" />
-                <marker date="1525986182249" expanded="true" signature="563:599" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AiBase.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBase.cs">
+      <file leaf-file-name="InputBase.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/InputBase.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
-                <marker date="1526003946170" expanded="false" signature="6:40" ph="..." />
-                <marker date="1526003946170" expanded="true" signature="89:185" ph="{...}" />
+                <marker date="1526622954089" expanded="false" signature="6:78" ph="..." />
+                <marker date="1526622954089" expanded="true" signature="130:170" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AiHunt.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiHunt.cs">
+      <file leaf-file-name="GameAction.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Actions/GameAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1525996403882" expanded="false" signature="6:80" ph="..." />
-                <marker date="1525996403882" expanded="true" signature="286:319" ph="{...}" />
-                <marker date="1525996403882" expanded="true" signature="351:391" ph="{...}" />
-                <marker date="1525996403882" expanded="true" signature="440:535" ph="{...}" />
+                <marker date="1526621314095" expanded="true" signature="6:156" ph="..." />
+                <marker date="1526621314095" expanded="true" signature="363:385" ph="{...}" />
+                <marker date="1526621314095" expanded="true" signature="423:442" ph="{...}" />
+                <marker date="1526621314095" expanded="true" signature="479:498" ph="{...}" />
+                <marker date="1526621314095" expanded="true" signature="539:558" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AiPatrol.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FloatVariable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <marker date="1526624333903" expanded="true" signature="113:372" ph="{...}" />
+                <marker date="1526624333903" expanded="true" signature="168:192" ph="{...}" />
+                <marker date="1526624333903" expanded="true" signature="218:283" ph="{...}" />
+                <marker date="1526624333903" expanded="true" signature="318:370" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AiPatrol.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="66" />
+            <state relative-caret-position="300">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <marker date="1525996389674" expanded="false" signature="6:88" ph="..." />
-                <marker date="1525996389674" expanded="true" signature="340:397" ph="{...}" />
-                <marker date="1525996389674" expanded="true" signature="429:473" ph="{...}" />
-                <marker date="1525996389674" expanded="true" signature="523:642" ph="{...}" />
-                <marker date="1525996389674" expanded="true" signature="559:591" ph="{...}" />
-                <marker date="1525996389674" expanded="true" signature="677:740" ph="{...}" />
+                <marker date="1526773624426" expanded="false" signature="6:74" ph="..." />
+                <marker date="1526773624426" expanded="true" signature="176:915" ph="{...}" />
+                <marker date="1526773624426" expanded="true" signature="348:464" ph="{...}" />
+                <marker date="1526773624426" expanded="true" signature="507:551" ph="{...}" />
+                <marker date="1526773624426" expanded="true" signature="599:646" ph="{...}" />
+                <marker date="1526773624426" expanded="true" signature="696:815" ph="{...}" />
+                <marker date="1526773624426" expanded="true" signature="732:764" ph="{...}" />
+                <marker date="1526773624426" expanded="true" signature="850:913" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddPatrolPointsList.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AddPatrolPointsList.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <marker date="1526773584731" expanded="false" signature="6:78" ph="..." />
+                <marker date="1526773584731" expanded="true" signature="154:293" ph="{...}" />
+                <marker date="1526773584731" expanded="true" signature="251:290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartActionBehaviour.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Behaviours/StartActionBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1525983497021" expanded="false" signature="6:78" ph="..." />
+                <marker date="1525983497021" expanded="true" signature="155:249" ph="{...}" />
+                <marker date="1525983497021" expanded="true" signature="211:247" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,11 +157,22 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/PlayerMoveBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AddPatrolPointsList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Actions/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Behaviours/StartActionBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBrain.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/ActionHandlers/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiIdle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/InputBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiHunt.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -126,16 +180,25 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Events/ClickRunEventBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBrain.cs" />
-        <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs" />
         <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiHunt.cs" />
         <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiIdle.cs" />
         <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/PlayerMoveBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Actions/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/InputBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AddPatrolPointsList.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1627" />
+    <option name="width" value="1440" />
     <option name="height" value="834" />
   </component>
   <component name="ProjectView">
@@ -200,7 +263,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="833" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="834" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24930556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -218,6 +281,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -228,11 +292,116 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBrain.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1526622974625" expanded="false" signature="6:118" ph="..." />
+            <marker date="1526622974625" expanded="true" signature="262:303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <marker date="1526499320410" expanded="true" signature="6:78" ph="..." />
+            <marker date="1526499320410" expanded="true" signature="249:747" ph="{...}" />
+            <marker date="1526499320410" expanded="true" signature="281:646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1526622945985" expanded="false" signature="6:118" ph="..." />
+            <marker date="1526622945985" expanded="true" signature="184:303" ph="{...}" />
+            <marker date="1526622945985" expanded="true" signature="262:301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/InputBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1526622954089" expanded="false" signature="6:78" ph="..." />
+            <marker date="1526622954089" expanded="true" signature="130:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Actions/GameAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526621314095" expanded="true" signature="6:156" ph="..." />
+            <marker date="1526621314095" expanded="true" signature="363:385" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="423:442" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="479:498" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="539:558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <marker date="1526624333903" expanded="true" signature="113:372" ph="{...}" />
+            <marker date="1526624333903" expanded="true" signature="168:192" ph="{...}" />
+            <marker date="1526624333903" expanded="true" signature="218:283" ph="{...}" />
+            <marker date="1526624333903" expanded="true" signature="318:370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526773624426" expanded="false" signature="6:74" ph="..." />
+            <marker date="1526773624426" expanded="true" signature="176:915" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="348:464" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="507:551" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="599:646" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="696:815" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="732:764" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="850:913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBrain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -240,11 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding>
-            <marker date="1525996441543" expanded="false" signature="6:100" ph="..." />
-            <marker date="1525996441543" expanded="true" signature="213:275" ph="{...}" />
-            <marker date="1525996441543" expanded="true" signature="264:273" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -252,18 +416,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1525983497025" expanded="false" signature="6:161" ph="..." />
-            <marker date="1525983497025" expanded="true" signature="284:328" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/NavMeshBehaviour.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -271,12 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding>
-            <marker date="1525996403882" expanded="false" signature="6:80" ph="..." />
-            <marker date="1525996403882" expanded="true" signature="286:319" ph="{...}" />
-            <marker date="1525996403882" expanded="true" signature="351:391" ph="{...}" />
-            <marker date="1525996403882" expanded="true" signature="440:535" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -285,27 +445,14 @@
         <state relative-caret-position="30">
           <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="66" />
           <folding>
-            <marker date="1525996389674" expanded="false" signature="6:88" ph="..." />
-            <marker date="1525996389674" expanded="true" signature="340:397" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="429:473" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="523:642" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="559:591" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="677:740" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1525986182249" expanded="false" signature="6:100" ph="..." />
-            <marker date="1525986182249" expanded="true" signature="168:601" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="330:376" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="394:430" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="476:536" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="563:599" ph="{...}" />
+            <marker date="1526773624426" expanded="false" signature="6:74" ph="..." />
+            <marker date="1526773624426" expanded="true" signature="176:915" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="348:464" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="507:551" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="599:646" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="696:815" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="732:764" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="850:913" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -314,7 +461,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiIdle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/ActionHandlers/GameActionHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/NavMeshBehaviour.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiHunt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="66" />
+          <folding>
+            <marker date="1526773624426" expanded="false" signature="6:74" ph="..." />
+            <marker date="1526773624426" expanded="true" signature="176:915" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="348:464" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="507:551" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="599:646" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="696:815" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="732:764" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="850:913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBrain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -322,12 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <marker date="1525996403882" expanded="false" signature="6:80" ph="..." />
-            <marker date="1525996403882" expanded="true" signature="286:319" ph="{...}" />
-            <marker date="1525996403882" expanded="true" signature="351:391" ph="{...}" />
-            <marker date="1525996403882" expanded="true" signature="440:535" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -336,12 +529,14 @@
         <state relative-caret-position="330">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <marker date="1525996389674" expanded="false" signature="6:88" ph="..." />
-            <marker date="1525996389674" expanded="true" signature="340:397" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="429:473" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="523:642" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="559:591" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="677:740" ph="{...}" />
+            <marker date="1526773624426" expanded="false" signature="6:74" ph="..." />
+            <marker date="1526773624426" expanded="true" signature="176:915" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="348:464" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="507:551" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="599:646" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="696:815" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="732:764" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="850:913" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -349,31 +544,10 @@
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Events/ClickRunEventBehaviour.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Events/IGameEvent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Events/GameEventObject.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="66" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="66" />
-          <folding>
-            <marker date="1525996389674" expanded="false" signature="6:88" ph="..." />
-            <marker date="1525996389674" expanded="true" signature="340:397" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="429:473" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="523:642" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="559:591" ph="{...}" />
-            <marker date="1525996389674" expanded="true" signature="677:740" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiHunt.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding>
-            <marker date="1525996403882" expanded="false" signature="6:80" ph="..." />
-            <marker date="1525996403882" expanded="true" signature="286:319" ph="{...}" />
-            <marker date="1525996403882" expanded="true" signature="351:391" ph="{...}" />
-            <marker date="1525996403882" expanded="true" signature="440:535" ph="{...}" />
-          </folding>
+          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -381,19 +555,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiIdle.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding>
-            <marker date="1525996441543" expanded="false" signature="6:100" ph="..." />
-            <marker date="1525996441543" expanded="true" signature="213:275" ph="{...}" />
-            <marker date="1525996441543" expanded="true" signature="264:273" ph="{...}" />
-          </folding>
+          <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -401,43 +569,157 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1525983497025" expanded="false" signature="6:161" ph="..." />
-            <marker date="1525983497025" expanded="true" signature="284:328" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/NavMeshBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/NavMeshBehaviour.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Actions/GameAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1525986182249" expanded="false" signature="6:100" ph="..." />
-            <marker date="1525986182249" expanded="true" signature="168:601" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="330:376" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="394:430" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="476:536" ph="{...}" />
-            <marker date="1525986182249" expanded="true" signature="563:599" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="6:156" ph="..." />
+            <marker date="1526621314095" expanded="true" signature="363:385" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="423:442" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="479:498" ph="{...}" />
+            <marker date="1526621314095" expanded="true" signature="539:558" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/PlayerMoveBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
-            <marker date="1526003946170" expanded="false" signature="6:40" ph="..." />
-            <marker date="1526003946170" expanded="true" signature="89:185" ph="{...}" />
+            <marker date="1526622974625" expanded="false" signature="6:118" ph="..." />
+            <marker date="1526622974625" expanded="true" signature="262:303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <marker date="1526622945985" expanded="false" signature="6:118" ph="..." />
+            <marker date="1526622945985" expanded="true" signature="184:303" ph="{...}" />
+            <marker date="1526622945985" expanded="true" signature="262:301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/MovePattern.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <marker date="1526499320410" expanded="true" signature="6:78" ph="..." />
+            <marker date="1526499320410" expanded="true" signature="249:747" ph="{...}" />
+            <marker date="1526499320410" expanded="true" signature="281:646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/InputBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1526622954089" expanded="false" signature="6:78" ph="..." />
+            <marker date="1526622954089" expanded="true" signature="130:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <marker date="1526624333903" expanded="true" signature="113:372" ph="{...}" />
+            <marker date="1526624333903" expanded="true" signature="168:192" ph="{...}" />
+            <marker date="1526624333903" expanded="true" signature="218:283" ph="{...}" />
+            <marker date="1526624333903" expanded="true" signature="318:370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/Generics/Scripts/Behaviours/StartActionBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1525983497021" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525983497021" expanded="true" signature="155:249" ph="{...}" />
+            <marker date="1525983497021" expanded="true" signature="211:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AddPatrolPointsList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1526773584731" expanded="false" signature="6:78" ph="..." />
+            <marker date="1526773584731" expanded="true" signature="154:293" ph="{...}" />
+            <marker date="1526773584731" expanded="true" signature="251:290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/AI/Scripts/AiPatrol.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1526773624426" expanded="false" signature="6:74" ph="..." />
+            <marker date="1526773624426" expanded="true" signature="176:915" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="348:464" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="507:551" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="599:646" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="696:815" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="732:764" ph="{...}" />
+            <marker date="1526773624426" expanded="true" signature="850:913" ph="{...}" />
           </folding>
         </state>
       </provider>
