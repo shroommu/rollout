@@ -92,6 +92,14 @@
                   <e p="DataStorage.cs" t="Include" />
                 </e>
               </e>
+              <e p="GameStates" t="Include">
+                <e p="GameBrain.cs" t="Include" />
+                <e p="GameBrainBehaviour.cs" t="Include" />
+                <e p="GameStateBase.cs" t="Include" />
+                <e p="GameStateBehaviour.cs" t="Include" />
+                <e p="RunGame.cs" t="Include" />
+                <e p="StartGame.cs" t="Include" />
+              </e>
               <e p="Interfaces" t="Include">
                 <e p="IAction.cs" t="Include" />
               </e>
