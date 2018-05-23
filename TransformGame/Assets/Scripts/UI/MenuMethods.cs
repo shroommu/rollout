@@ -14,7 +14,7 @@ public class MenuMethods : MonoBehaviour {
 
 	public bool isPopup = false;
 
-	public MenuMethods tempActiveMenu;
+	private MenuMethods tempActiveMenu;
 
     void Awake()
     {

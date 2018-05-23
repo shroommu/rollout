@@ -6,6 +6,8 @@ using UnityEngine.Events;
 //This class manages what state the game is in (ie preparing to start a match, currently in a match, or after the match has ended).
 public class GameStateManager : MonoBehaviour {
 
+	public SO_Game_State currentState;
+
 	private Animator gameStateMachine;
 	//Animator must be set to unscaled time
 
