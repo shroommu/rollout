@@ -9,6 +9,7 @@
         <e p="ArtisanDream" t="Include">
           <e p="AI" t="Include">
             <e p="Scripts" t="Include">
+              <e p="AddPatrolPointsList.cs" t="Include" />
               <e p="AiBase.cs" t="Include" />
               <e p="AiBehaviour.cs" t="Include" />
               <e p="AiBrain.cs" t="Include" />
@@ -16,7 +17,55 @@
               <e p="AiIdle.cs" t="Include" />
               <e p="AiPatrol.cs" t="Include" />
               <e p="AiStateBehavior.cs" t="Include" />
+              <e p="AIStates.cs" t="Include" />
+              <e p="NavMeshBehaviour.cs" t="Include" />
               <e p="PatrolPointControl.cs" t="Include" />
+            </e>
+          </e>
+          <e p="CharacterScripts" t="Include">
+            <e p="Legacy" t="Include">
+              <e p="AI" t="Include">
+                <e p="ActivateEnemyAI.cs" t="Include" />
+                <e p="EnemyActivateMeleeOnTrigger.cs" t="Include" />
+                <e p="EnemyAutoFire.cs" t="Include" />
+                <e p="EnemyController.cs" t="Include" />
+                <e p="EnemyDirectionChanger.cs" t="Include" />
+                <e p="EnemyFiringStateMachine.cs" t="Include" />
+                <e p="EnemyMelee_PlayerFXCall.cs" t="Include" />
+                <e p="EnemyMeleeOnAnimator.cs" t="Include" />
+                <e p="EnemyRetargetCall.cs" t="Include" />
+                <e p="EnemySpawnerDelegate.cs" t="Include" />
+                <e p="EnemyTargetDirector.cs" t="Include" />
+                <e p="EnemyWeaponFX.cs" t="Include" />
+              </e>
+              <e p="Inputs" t="Include">
+                <e p="MoveCharacterViaButtons.cs" t="Include" />
+                <e p="MoveViaKeys.cs" t="Include" />
+              </e>
+              <e p="PlayerCharacter" t="Include">
+                <e p="AnimateCharacter.cs" t="Include" />
+                <e p="CharacterHealthKiller.cs" t="Include" />
+                <e p="CharacterMovement.cs" t="Include" />
+                <e p="EndPlayer.cs" t="Include" />
+                <e p="FlipCharacter.cs" t="Include" />
+                <e p="MoveAndJumpCharacter.cs" t="Include" />
+                <e p="MoveInputs.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="BoolInput.cs" t="Include" />
+              <e p="CharacterMove.cs" t="Include" />
+              <e p="FloatConstant.cs" t="Include" />
+              <e p="FloatInput.cs" t="Include" />
+              <e p="FloatVariable.cs" t="Include" />
+              <e p="InputBase.cs" t="Include" />
+              <e p="MovePattern.cs" t="Include" />
+              <e p="MovePatternBase.cs" t="Include" />
+              <e p="MovePatternNotGrounded.cs" t="Include" />
+              <e p="MovePatternWithIsGrounded.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerMoveBehaviour.cs" t="Include" />
+              <e p="PlayerStateBehaviour.cs" t="Include" />
             </e>
           </e>
           <e p="Generics" t="Include">
@@ -46,6 +95,16 @@
                   <e p="DataStorage.cs" t="Include" />
                 </e>
               </e>
+              <e p="GameStates" t="Include">
+                <e p="GameBrain.cs" t="Include" />
+                <e p="GameBrainBehaviour.cs" t="Include" />
+                <e p="GameStateBase.cs" t="Include" />
+                <e p="GameStateBehaviour.cs" t="Include" />
+                <e p="RunGame.cs" t="Include" />
+                <e p="StartGame.cs" t="Include" />
+              </e>
+              <e p="Health.cs" t="Include" />
+              <e p="HealthBehaviour.cs" t="Include" />
               <e p="Interfaces" t="Include">
                 <e p="IAction.cs" t="Include" />
               </e>
